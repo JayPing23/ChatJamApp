@@ -12,6 +12,6 @@ Push notifications for new music recommendations
 Enhanced performance and app-specific optimizations
 
 Special Thanks
-A huge shoutout to the developer behind ChatJams and its powerful AI for making this project possible. Their work in AI-driven music discovery is what inspires this mobile adaptation.
+A huge shoutout to the developer behind [ChatJams ](https://www.chatjams.ai/) and its powerful AI for making this project possible. Their work in AI-driven music discovery is what inspires this mobile adaptation.
 
 Stay tuned for updates as we bring ChatJams to mobile! 🚀
